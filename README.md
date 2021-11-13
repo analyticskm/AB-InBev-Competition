@@ -1,10 +1,4 @@
-# Achievements
-Achievements which everytime reminds me to achieve more
-
-
-#Maverick 2.0 Hack-a-thon
-
-#AB InBev
+#Maverick 2.0 Hack-a-thon #AB InBev 
 
 Round 1: Online Quiz
 Team - StrangeAttractors (Round 1 qualified- Top 7% of the all Participants among the top 28 Premier Educational Institutions (IITS,NITS etc) in India
